@@ -49,11 +49,11 @@ header a {
 
 .title > *:first-child {
   font-size: var(--large);
+  font-weight: bold;
 }
 
 .title > *:last-child {
-  opacity: 0.95;
-  font-weight: bold;
+  opacity: 1;
 }
 
 .nav-toggle {
