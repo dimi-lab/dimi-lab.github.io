@@ -1,14 +1,14 @@
 - title: Ovarian TMA Dataset
   subtitle: multi-modality ovarian data
   group: featured
-  image: images/projects/ov_tma_small.png
+  image: images/projects/ov_tma.png
   link:
-  description: An ovarian tissue micro-array (TMA) dataset, consists of multi-modality of images and gene profiles.
+  description: A high quality ovarian tissue micro-array (TMA) dataset consists of multi-modality of images, with corresponding tabular data quantifying gene profiles of an ovarian cancer cohort.
   repo:
   tags:
     - resource, dataset
 
-- title: Cool Dataset
+- title: Cool Package
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg

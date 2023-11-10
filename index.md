@@ -32,8 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+With years of efforts, we have curated several high quality datasets consists of multi-modality of image and tabular data. 
+We developed many tools to quantify tissue micro-anatomy, cell morphology, proteomics, transcriptomics 
+and gene profiles of cancer cohorts to advance the understanding tumor development, metastasis and treatment response.
 
 {%
   include button.html
@@ -48,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/projects/ov_tma.png"
+  image="images/projects/ov_tma_small.png"
   link="projects"
   title="Our Projects"
   style="bare"

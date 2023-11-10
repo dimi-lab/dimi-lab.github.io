@@ -22,7 +22,6 @@ Second, we find that in structural level, protein marker signals are generally c
 And in these regions, immune related gene expressions are also high, but not necessarily low in the rest regions.
 
 Currently, we are generating new dataset to fill the gaps in our previous experiments, and also trying to scale up to have more significant results.
-{% include section.html %}
-Workflow of this study
+#### Workflow of this study
 {% include figure.html image="images/posts/post_cosmx_mxif.png" %}
 
