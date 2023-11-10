@@ -1,16 +1,12 @@
 ---
 ---
-{% include section.html %}
-
-DIMI lab: Data science and Informatics for Multiomics Integration.
 
 {% include section.html %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Focusing on biomedical data science and integrative multiomics, we have been devising and leveraging
+advanced methods to aid deeper understanding of tumor micro-environment and stratification of patient subtypes
+for precision medicine.
 
 {%
   include button.html
@@ -57,8 +53,9 @@ and gene profiles of cancer cohorts to advance the understanding tumor developme
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As a cross-disciplinary team working on biomedical data science, we have diverse education background 
+and experience on bioinformatics, biostatistics, bioengineering and high performance computing. Opening to discussions 
+and collaborations, we are always ready to hear your advices and feedbacks.
 
 {%
   include button.html

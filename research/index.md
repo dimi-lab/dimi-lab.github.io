@@ -7,13 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Cancer is responsible for millions of deaths worldwide every year. 
-Although significant progress has been achieved in cancer therapy in recent years, 
-many issues remain to be addressed to improve patients' survival. 
-Our research focuses on two aspects towards finding new and efficient therapies.
-
-- Devise and leverage advanced methods to have deeper understanding of tumor micro-environment
-- Fine stratification of patient subtypes for accurate medicine
 
 {% include section.html %}
 
