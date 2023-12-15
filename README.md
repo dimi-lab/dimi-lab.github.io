@@ -1,4 +1,4 @@
-# **[DIMI-Lab's Website](https://dimi-lab.github.io)** 🚀
+# **[dimi-lab.github.io](https://dimi-lab.github.io)** 🚀
 This is the source code to generate the webpages for our lab.
 
 # How to make updates
