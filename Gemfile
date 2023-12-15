@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 # jekyll
-gem "jekyll", "~> 4.3"
+gem 'jekyll'
+gem "jekyll-sass-converter", "~> 2.0"
 gem "webrick", "~> 1.7"
 
 # plugins
