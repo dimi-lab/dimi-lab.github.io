@@ -11,7 +11,7 @@
 - title: mxif_clustering_pipeline
   subtitle: a subtitle
   group: featured
-  image: https://github.com/dimi-lab/mxif_clustering_pipeline/blob/ee6e7a7ad9aba8e036a0915c85278817c615c723/images/mxif-pipeline.png
+  image: https://github.com/dimi-lab/mxif_clustering_pipeline/blob/main/images/mxif-pipeline.png
   link: https://github.com/dimi-lab/mxif_clustering_pipeline
   description: A cell clustering tool developed with Nextflow.
   repo:
