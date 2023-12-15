@@ -8,11 +8,11 @@
   tags:
     - resource, dataset
 
-- title: Cool Package
+- title: mxif_clustering_pipeline
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: https://github.com/dimi-lab/mxif_clustering_pipeline/blob/ee6e7a7ad9aba8e036a0915c85278817c615c723/images/mxif-pipeline.png
+  link: https://github.com/dimi-lab/mxif_clustering_pipeline
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
