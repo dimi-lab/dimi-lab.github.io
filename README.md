@@ -58,7 +58,7 @@ The easiest way to add your publications to the publication list is to add your 
 ./dimi-lab.github.io/_data/orcid.yaml
 ```
 The GitHub Pages bot will automatically fetch your publications online and add to "_data/citations.yaml". 
-Please note, don't edit this "citations.yaml" directly. It will be refreshed biweekly.
+So, please don't edit this "citations.yaml" directly, as your modifications will be overwritten in no time.
 
 If you are interested in how this happens, please read python code in "./dimi-lab.github.io/_cite".
 
