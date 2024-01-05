@@ -8,15 +8,15 @@
   tags:
     - resource, dataset
 
-- title: mxif_clustering_pipeline
-  subtitle: a subtitle
+- title: MxIF Cell Clustering
+  subtitle: a nextflow pipeline
   group: featured
   image: images/projects/mxif-pipeline.png
   link: https://github.com/dimi-lab/mxif_clustering_pipeline
-  description: A cell clustering tool developed with Nextflow.
+  description: A cell clustering pipeline developed for MxIF images. Developed with Nextflow, this tool is compatible and scalable on any POSIX system (Linux, OS X, etc).
   repo:
   tags:
-    - cell clustering
+    - cell clustering, pipeline, Nextflow
 
 - title: Cool Package
   subtitle: a subtitle
