@@ -1,5 +1,14 @@
 # **[dimi-lab.github.io](https://dimi-lab.github.io)** 🚀
 This is the source code to generate the webpages for our lab.
+Site map:
+```mermaid
+graph TD;
+    MainPage-->Research;
+    MainPage-->Projects;
+    MainPage-->Team;
+    MainPage-->News;
+    MainPage-->Contact;
+```
 
 # How to make updates
 This website is built with _[Lab Website Template.](https://greene-lab.gitbook.io/lab-website-template-docs)_
