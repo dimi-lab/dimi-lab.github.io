@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: DIMI Lab
 subtitle: Data science and Informatics for Multiomics Integration
-description: An engaging 1-3 sentence description of your lab.
+description: DIMI Lab specializes in the data integration of multiomics, pathomics, and spatial omics data. Our team of data science experts is dedicated to developing scalable computational methodologies for large and heterogenous omics dataset. Our research mission is to advance computational science, unveiling key insights into complex biological systems and human diseases.
 header: images/background.jpg
 footer: images/background.jpg
 
