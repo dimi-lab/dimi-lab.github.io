@@ -7,10 +7,10 @@
     - type: website
       text: Manuscript
       link: https://www.sciencedirect.com/science/article/pii/S2211124718304376?via%3Dihub
-    - type: data
+    - type: source
       text: Supplemental Data
       link: https://gdc.cancer.gov/about-data/publications/PanCan-DDR-2018
-    
+
 - id: doi:10.3389/fmed.2022.994467
   type: paper
   description: Tumor stroma reaction
