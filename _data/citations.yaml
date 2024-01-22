@@ -3164,7 +3164,7 @@
   - type: website
     text: Manuscript
     link: https://www.sciencedirect.com/science/article/pii/S2211124718304376?via%3Dihub
-  - type: data
+  - type: source
     text: Supplemental Data
     link: https://gdc.cancer.gov/about-data/publications/PanCan-DDR-2018
   plugin: sources.py
