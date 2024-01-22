@@ -14,12 +14,12 @@ nav:
 
 {% include section.html %}
 
-## Featured
+## Highlighted
 
-{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
+{% include list.html component="card" data="projects" filters="group: highlighted" style="small" %}
 
 {% include section.html %}
 
-## Tools and Pipelines
+## Datasets, Tools and Pipelines
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
