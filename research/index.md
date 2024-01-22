@@ -11,7 +11,7 @@ nav:
 {% include section.html %}
 
 ## Highlighted
-
+{% include citation.html lookup="Genomic and Molecular Landscape of DNA Damage Repair Deficiency across The Cancer Genome Atlas" style="rich" %}
 {% include citation.html lookup="Computational tumor stroma reaction evaluation led to novel prognosis-associated fibrosis and molecular signature discoveries in high-grade serous ovarian carcinoma" style="rich" %}
 
 {% include section.html %}
