@@ -34,6 +34,11 @@
   padding: 15px;
 }
 
+.card-text p {
+  max-height: 400px;
+  overflow: scroll;
+}
+
 .card-text > *,
 .card-text > .tags {
   margin: 0;
