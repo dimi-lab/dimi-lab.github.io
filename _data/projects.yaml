@@ -6,7 +6,7 @@
   description: A high quality ovarian tissue micro-array (TMA) dataset consists of multi-modality of images, with corresponding tabular data quantifying gene profiles of an ovarian cancer cohort.
   repo:
   tags:
-    - resource, dataset
+    - Ovarian TMA, Dataset
 
 - title: MxIF Cell Clustering
   subtitle: a nextflow pipeline
@@ -16,7 +16,7 @@
   description: A cell clustering pipeline developed for MxIF images. Developed with Nextflow, this tool is compatible and scalable on any POSIX system (Linux, OS X, etc).
   repo:
   tags:
-    - cell clustering, pipeline, Nextflow
+    - Cell Clustering, Nextflow
 
 - title: Multiplex Image QC
   subtitle: DAPI referenced quality checking
@@ -26,8 +26,8 @@
   description: This tool has been developed to generate metrics and report the image quality coming from he Cytiva/Leica INCEll MxIF Microscope.
   repo:
   tags:
-    - tool
-    - quality checking
+    - DAPI
+    - Quality Checking
 
 - title: Clinical outcome related cancer genes
   subtitle: An association study
@@ -37,7 +37,7 @@
   description: Despite growing knowledge about transcriptional profile-based molecular subtyping of high-grade serous ovarian cancer (HGSOC), molecular subtypes are not in current clinical use. Here we assess whether molecular subtyping identifies biological features of tumors that correlate with survival and surgical outcomes. In this study, five molecular subtypes were identified in a large public cohort (over 2,000 HGSOC patients) and validated in Mayo Clinic patients (381 patients). Molecular subtypes were significantly associated with surgical outcome and overall survival in both patient collections. The mesenchymal subtype of ovarian tumors generally showed the least favorable surgical outcome, with the lowest rate of no macroscopic disease (RD0) after primary surgeries. This result might suggest molecular subtyping should be clinically evaluated for future utility in guiding neoadjuvant treatment decisions for women with ovarian cancer.
   repo:
   tags:
-    - High grade Serous Ovarian Cancer, Gene Expression, Treatment outcome
+    - Gene Expression, Treatment outcome
 
 - title: Immuno-Suppressive Methylation Signature
   subtitle: Methylation and immune response

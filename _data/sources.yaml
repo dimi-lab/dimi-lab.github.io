@@ -1,7 +1,7 @@
 - id: doi:10.1016/j.celrep.2018.03.076
   type: paper
   description: DNA damage repair, Genomic and Molecular Landscape, TCGA
-  date: 2018-04-03
+  date: 2018-4-3
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124718304376-fx1.jpg
   buttons:
     - type: website
