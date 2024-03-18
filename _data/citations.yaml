@@ -333,6 +333,42 @@
   orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
+- title: Data from The YAP-Interacting Phosphatase SHP2 Can Regulate Transcriptional
+    Coactivity and Modulate Sensitivity to Chemotherapy in Cholangiocarcinoma
+  authors:
+  - EeeLN H. Buckarma
+  - Nathan W. Werneburg
+  - Caitlin B. Conboy
+  - Ayano Kabashima
+  - Daniel R. O'Brien
+  - Chen Wang
+  - Sumera Rizvi
+  - Rory L. Smoot
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-03'
+  link: https://doi.org/gtm6h3
+  id: doi:10.1158/1541-7786.c.6540780.v1
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Data from The YAP-Interacting Phosphatase SHP2 Can Regulate Transcriptional
+    Coactivity and Modulate Sensitivity to Chemotherapy in Cholangiocarcinoma
+  authors:
+  - EeeLN H. Buckarma
+  - Nathan W. Werneburg
+  - Caitlin B. Conboy
+  - Ayano Kabashima
+  - Daniel R. O'Brien
+  - Chen Wang
+  - Sumera Rizvi
+  - Rory L. Smoot
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-03'
+  link: https://doi.org/gtm6h4
+  id: doi:10.1158/1541-7786.c.6540780
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
 - title: Methylation Signature Implicated in Immuno-Suppressive Activities in Tubo-Ovarian
     High-Grade Serous Carcinoma
   authors:
