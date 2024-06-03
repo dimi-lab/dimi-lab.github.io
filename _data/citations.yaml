@@ -1,5 +1,69 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: Metabolome-wide association identifies altered metabolites and metabolic
+    pathways in the serum of patients with cholangiocarcinoma
+  authors:
+  - Linsey E. Jackson
+  - Jennifer L. Tomlinson
+  - Roberto Alva-Ruiz
+  - Lindsey A. Gregory
+  - Seul Kee Byeon
+  - Amro M. Abdelrahman
+  - Dong-Gi Mun
+  - Caroline W. Grant
+  - Zachary C. Fogarty
+  - Chen Wang
+  - Lewis R. Roberts
+  - Rondell P. Graham
+  - Mitesh J. Borad
+  - Sumera I. Ilyas
+  - Gregory J. Gores
+  - Akhilesh Pandey
+  - Arjun P. Athreya
+  - Rory L. Smoot
+  publisher: JHEP Reports
+  date: '2024-06-01'
+  link: https://doi.org/gtnz92
+  id: doi:10.1016/j.jhepr.2024.101068
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Data from The YAP-Interacting Phosphatase SHP2 Can Regulate Transcriptional
+    Coactivity and Modulate Sensitivity to Chemotherapy in Cholangiocarcinoma
+  authors:
+  - EeeLN H. Buckarma
+  - Nathan W. Werneburg
+  - Caitlin B. Conboy
+  - Ayano Kabashima
+  - Daniel R. O'Brien
+  - Chen Wang
+  - Sumera I. Ilyas
+  - Rory L. Smoot
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-16'
+  link: https://doi.org/gtm6h4
+  id: doi:10.1158/1541-7786.c.6540780
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Data from The YAP-Interacting Phosphatase SHP2 Can Regulate Transcriptional
+    Coactivity and Modulate Sensitivity to Chemotherapy in Cholangiocarcinoma
+  authors:
+  - EeeLN H. Buckarma
+  - Nathan W. Werneburg
+  - Caitlin B. Conboy
+  - Ayano Kabashima
+  - Daniel R. O'Brien
+  - Chen Wang
+  - Sumera Ilyas
+  - Rory L. Smoot
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/gtrmc9
+  id: doi:10.1158/1541-7786.c.6540780.v2
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
 - title: Data from Real-world Trends, Rural-urban Differences, and Socioeconomic Disparities
     in Utilization of Narrow versus Broad Next-generation Sequencing Panels
   authors:
@@ -330,6 +394,24 @@
   date: '2023-04-03'
   link: https://doi.org/gs2696
   id: doi:10.1158/1055-9965.c.6534651
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Data from The YAP-Interacting Phosphatase SHP2 Can Regulate Transcriptional
+    Coactivity and Modulate Sensitivity to Chemotherapy in Cholangiocarcinoma
+  authors:
+  - EeeLN H. Buckarma
+  - Nathan W. Werneburg
+  - Caitlin B. Conboy
+  - Ayano Kabashima
+  - Daniel R. O'Brien
+  - Chen Wang
+  - Sumera Rizvi
+  - Rory L. Smoot
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-03'
+  link: https://doi.org/gtm6h3
+  id: doi:10.1158/1541-7786.c.6540780.v1
   orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
@@ -722,10 +804,10 @@
   - Ayano Kabashima
   - Daniel R. O'Brien
   - Chen Wang
-  - Sumera Rizvi
+  - Sumera I. Ilyas
   - Rory L. Smoot
   publisher: Molecular Cancer Research
-  date: '2020-10-01'
+  date: '2020-07-09'
   link: https://doi.org/gss2cq
   id: doi:10.1158/1541-7786.MCR-20-0165
   orcid: 0000-0003-2638-3081
