@@ -204,7 +204,6 @@ def cite_with_manubot(_id):
 
     # title
     title_tmp = get_safe(manubot, "title", "").strip()
-    title_tmp = set(title_tmp)
     if filter_pub_list(title_tmp):
         # new citation with only needed info
         citation = {}
