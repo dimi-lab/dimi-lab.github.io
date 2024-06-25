@@ -174,6 +174,8 @@ def filter_pub_list(title_tmp):
         ele = title_tmp.split(" ")
         if ele[0].lower() == "table" or ele[0].lower() == "figure":
             return False
+        elif ele[0].lower() == "data" and ele[1].lower() == "from":
+            return False
         else:
             return True
     else:
