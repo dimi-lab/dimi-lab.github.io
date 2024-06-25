@@ -164,6 +164,20 @@ def save_data(path, data):
     except Exception:
         raise Exception("Can't write to file")
 
+def filter_pub_list(title_tmp):
+    if "supplemental table" not in title_tmp.lower() \
+        and "supplemental method" not in title_tmp.lower() \
+        and "supplemental figure" not in title_tmp.lower() \
+        and "supplementary table" not in title_tmp.lower() \
+        and "supplementary method" not in title_tmp.lower() \
+        and "supplementary figure" not in title_tmp.lower():
+        ele = title_tmp.split(" ")
+        if ele[0].lower() == "table" or ele[0].lower() == "figure":
+            return False
+        else:
+            return True
+    else:
+        return False
 
 @log_cache
 @cache.memoize(name="manubot", expire=90 * (60 * 60 * 24))
@@ -188,12 +202,7 @@ def cite_with_manubot(_id):
 
     # title
     title_tmp = get_safe(manubot, "title", "").strip()
-    if "supplemental table" not in title_tmp.lower() \
-            and "supplemental method" not in title_tmp.lower() \
-            and "supplemental figure" not in title_tmp.lower() \
-            and "supplementary table" not in title_tmp.lower() \
-                    and "supplementary method" not in title_tmp.lower() \
-                    and "supplementary figure" not in title_tmp.lower():
+    if filter_pub_list(title_tmp):
         # new citation with only needed info
         citation = {}
         citation["title"] = title_tmp
