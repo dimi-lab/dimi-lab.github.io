@@ -11,9 +11,11 @@ We are a cross-disciplinary team with diverse background. Click on the portrait 
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc2" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc1" %}
 {% include list.html data="members" component="portrait" filters="role: bioinformatician" %}
 {% include list.html data="members" component="portrait" filters="role: pathologist" %}
 {% include list.html data="members" component="portrait" filters="role: cloud_expert" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-users" %} Team Events
