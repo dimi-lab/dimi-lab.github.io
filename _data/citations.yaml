@@ -244,7 +244,7 @@
   - Soua Yang
   - Chen Wang
   - Jaime Davila
-  publisher: Computational Advances in Bio and Medical Sciences
+  publisher: Lecture Notes in Computer Science
   date: '2022-01-01'
   link: https://doi.org/gs27f2
   id: doi:10.1007/978-3-031-17531-2_3
@@ -1746,7 +1746,7 @@
   - Rebecca B. Riggins
   - Robert Clarke
   - Jianhua Xuan
-  publisher: Bioinformatics Research and Applications
+  publisher: Lecture Notes in Computer Science
   date: '2012-01-01'
   link: https://doi.org/gs27gk
   id: doi:10.1007/978-3-642-30191-9_4
@@ -1862,7 +1862,7 @@
   - Yue Wang
   - Robert Clarke
   - Eric P. Hoffman
-  publisher: Bioinformatics Research and Applications
+  publisher: Lecture Notes in Computer Science
   date: ''
   link: https://doi.org/fs3bxz
   id: doi:10.1007/978-3-540-79450-9_19
@@ -2214,6 +2214,30 @@
   link: https://doi.org/gs27xp
   id: doi:10.1007/s10278-012-9568-1
   orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Melanoma-Derived Extracellular Vesicles Induce CD36-Mediated Pre-Metastatic
+    Niche
+  authors:
+  - Shankar Suman
+  - Wendy K. Nevala
+  - Alexey A. Leontovich
+  - Caitlin Ward
+  - James W. Jakub
+  - Yohan Kim
+  - Liyi Geng
+  - Noah A. Stueven
+  - Chathu L. Atherton
+  - Raymond M. Moore
+  - Jill M. Schimke
+  - Fabrice Lucien-Matteoni
+  - Sarah A. McLaughlin
+  - Svetomir N. Markovic
+  publisher: Biomolecules
+  date: '2024-07-11'
+  link: https://doi.org/gt4w4w
+  id: doi:10.3390/biom14070837
+  orcid: 0000-0003-4196-1804
   plugin: orcid.py
   file: orcid.yaml
 - title: Doublecortin domain containing protein 2 (DCDC2) genetic variants in primary
