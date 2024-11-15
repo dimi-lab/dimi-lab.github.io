@@ -1768,18 +1768,11 @@
   orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
-- title: 'GIST: A Gibbs sampler to identify intracellular signal transduction pathways'
-  authors:
-  - ' Jinghua Gu'
-  - ' Chen Wang'
-  - ' Le-Ming Shih'
-  - ' Tian-Li Wang'
-  - ' Yue Wang'
-  - R. Clarke
-  - ' Jianhua Xuan'
-  publisher: 2011 Annual International Conference of the IEEE Engineering in Medicine
-    and Biology Society
-  date: '2011-08-01'
+- title: 'GIST: A Gibbs sampler to identify intracellular signal transduction pathways
+    | IEEE Conference Publication | IEEE Xplore'
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/c74wr5
   id: doi:10.1109/IEMBS.2011.6090677
   orcid: 0000-0003-2638-3081
