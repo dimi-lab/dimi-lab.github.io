@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: 'Towards H&amp;amp;E Referenced Multiplex Immunofluorescence Interpretation:
+    Spatial Co-localization, Cell Feature Validation, and Virtual H&amp;amp;E Generation'
+  authors:
+  - Chen Wang
+  - Jun Jiang
+  - Raymond Moore
+  - Brenna Novotny
+  - Ruifeng Guo
+  - Zachary Fogarty
+  - Yuanhang Liu
+  - Ellen Goode
+  - Stacey Winham
+  - Svetomir Markovic
+  publisher: Springer Science and Business Media LLC
+  date: '2025-01-06'
+  link: https://doi.org/g8zjsv
+  id: doi:10.21203/rs.3.rs-5619126/v1
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
 - title: Metabolome-wide association identifies altered metabolites and metabolic
     pathways in the serum of patients with cholangiocarcinoma
   authors:
@@ -2386,6 +2406,249 @@
   link: https://doi.org/gnhp39
   id: doi:10.1371/journal.pone.0083356
   orcid: 0000-0003-4196-1804
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Increased Interaction between B Cells and CD3+ T Cells in Nonprogressors\
+    \ with Human Papillomavirus\u2013Associated Oropharyngeal Squamous Cell Carcinoma"
+  authors:
+  - Kathleen R. Bartemes
+  - Raymond M. Moore
+  - Brenna C. Novotny
+  - Kevin D. Pavelko
+  - Will A. Sherman
+  - Michael Rivera
+  - Joaquin J. Garcia
+  - Linda X. Yin
+  - Daniel J. Ma
+  - Eric J. Moore
+  - Kathryn M. Van Abel
+  - David M. Routman
+  publisher: Clinical Cancer Research
+  date: '2025-03-18'
+  link: https://doi.org/g9f784
+  id: doi:10.1158/1078-0432.CCR-24-2425
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'SpaFlow: a Nextflow pipeline for QC and clustering of MxIF datasets'
+  authors:
+  - Brenna C Novotny
+  - Raymond Moore
+  - Lynn Langit
+  - David Haley
+  - Rachel L Maus
+  - Jun Jiang
+  - Caitlin Ward
+  - Ray Guo
+  - Ellen L Goode
+  - Svetomir N Markovic
+  - Chen Wang
+  publisher: Bioinformatics Advances
+  date: '2024-12-26'
+  link: https://doi.org/g9f785
+  id: doi:10.1093/bioadv/vbaf032
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Metabolomic and lipidomic signatures in autosomal dominant and late\u2010\
+    onset Alzheimer's disease brains"
+  authors:
+  - Brenna C. Novotny
+  - Maria Victoria Fernandez
+  - Ciyang Wang
+  - John P. Budde
+  - Kristy Bergmann
+  - Abdallah M. Eteleeb
+  - Joseph Bradley
+  - Carol Webster
+  - Curtis Ebl
+  - Joanne Norton
+  - Jen Gentsch
+  - Umber Dube
+  - Fengxian Wang
+  - John C. Morris
+  - Randall J. Bateman
+  - Richard J. Perrin
+  - Eric McDade
+  - Chengjie Xiong
+  - Jasmeer Chhatwal
+  - Alison Goate
+  - Martin Farlow
+  - Peter Schofield
+  - Helena Chui
+  - Celeste M. Karch
+  - Carlos Cruchaga
+  - Bruno A. Benitez
+  - Oscar Harari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2022-10-17'
+  link: https://doi.org/g9f786
+  id: doi:10.1002/alz.12800
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Single-nucleus RNA-sequencing of autosomal dominant Alzheimer disease and
+    risk variant carriers
+  authors:
+  - Logan Brase
+  - Shih-Feng You
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Jorge L. Del-Aguila
+  - Yaoyi Dai
+  - Brenna C. Novotny
+  - Carolina Soriano-Tarraga
+  - Taitea Dykstra
+  - Maria Victoria Fernandez
+  - John P. Budde
+  - Kristy Bergmann
+  - John C. Morris
+  - Randall J. Bateman
+  - Richard J. Perrin
+  - Eric McDade
+  - Chengjie Xiong
+  - Alison M. Goate
+  - Martin Farlow
+  - Greg T. Sutherland
+  - Jonathan Kipnis
+  - Celeste M. Karch
+  - Bruno A. Benitez
+  - Oscar Harari
+  publisher: Nature Communications
+  date: '2023-04-21'
+  link: https://doi.org/gsmdq7
+  id: doi:10.1038/s41467-023-37437-5
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Brain cross-omics integration in Alzheimer\u2019s disease"
+  authors:
+  - Abdallah M. Eteleeb
+  - Brenna C. Novotny
+  - Carolina Soriano Tarraga
+  - Christopher Sohn
+  - Eliza Dhungel
+  - Logan Brase
+  - Aasritha Nallapu
+  - Jared Buss
+  - Fabiana Farias
+  - Kristy Bergmann
+  - Joseph Bradley
+  - Joanne Norton
+  - Jen Gentsch
+  - Fengxian Wang
+  - Albert A. Davis
+  - John C. Morris
+  - Celeste M. Karch
+  - Richard J. Perrin
+  - Bruno A. Benitez
+  - Oscar Harari
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-13'
+  link: https://doi.org/g9f787
+  id: doi:10.1101/2022.12.10.22283295
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A landscape of the genetic and cellular heterogeneity in Alzheimer disease
+  authors:
+  - Logan Brase
+  - Shih-Feng You
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Jorge L. Del-Aguila
+  - Yaoyi Dai
+  - Brenna C Novotny
+  - Carolina Soriano-Tarraga
+  - Taitea Dykstra
+  - Maria Victoria Fernandez
+  - John P Budde
+  - Kristy Bergmann
+  - John C Morris
+  - Randall J Bateman
+  - Richard J Perrin
+  - Eric McDade
+  - Chengjie Xiong
+  - Alison Goate
+  - Martin Farlow
+  - Jasmeer P. Chhatwal
+  - Peter Schofield
+  - Helena Chui
+  - Greg T Sutherland
+  - Jonathan Kipnis
+  - Celeste M Karch
+  - Bruno A Benitez
+  - Carlos Cruchaga
+  - Oscar Harari
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-02'
+  link: https://doi.org/g9f788
+  id: doi:10.1101/2021.11.30.21267072
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Metabolomic and lipidomic signatures in autosomal dominant and late-onset
+    Alzheimer disease brains
+  authors:
+  - Brenna C Novotny
+  - Maria Victoria Fernandez
+  - Ciyang Wang
+  - John P Budde
+  - Kristy Bergmann
+  - Abdallah Eteleeb
+  - Joseph Bradley
+  - Carol Webster
+  - Curtis Ebl
+  - Joanne Norton
+  - Jen Gentsch
+  - Umber Dube
+  - Fengxian Wang
+  - John C Morris
+  - Randall J Bateman
+  - Richard J Perrin
+  - Eric McDade
+  - Chengjie Xiong
+  - Jasmeer Chhatwal
+  - Alison Goate
+  - Martin Farlow
+  - Peter Schofield
+  - Helena Chui
+  - Celeste M Karch
+  - Bruno A Benitez
+  - Carlos Cruchaga
+  - Oscar Harari
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-05'
+  link: https://doi.org/g9f789
+  id: doi:10.1101/2021.11.04.21265941
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Multi-tissue proteomics identifies molecular signatures for sporadic and
+    genetically defined Alzheimer disease cases
+  authors:
+  - Carlos Cruchaga
+  - Yun Ju Sung
+  - Chengran Yang
+  - Fengxian Wang
+  - Adam Suhy
+  - Joanne Norton
+  - Brenna Novotny
+  - Abdallah Etelleb
+  - Anne Fagan
+  - Randall Bateman
+  - Richard Perrin
+  - John Morris
+  - Martin Farlow
+  - Jasmeer Chhatwal
+  - Helena Chui
+  - Herve Rhinn
+  - Celeste Karch
+  - Suzanne Schindler
+  - Oscar Harari
+  publisher: Research Square Platform LLC
+  date: '2021-10-21'
+  link: https://doi.org/g9f79b
+  id: doi:10.21203/rs.3.rs-923492/v1
+  orcid: 0000-0003-4732-1736
   plugin: orcid.py
   file: orcid.yaml
 - title: Genomic and Molecular Landscape of DNA Damage Repair Deficiency across The
