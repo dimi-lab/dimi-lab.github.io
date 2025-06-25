@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: 'PathoGraph: A Graph-Based Method for Standardized Representation of Pathology
+    Knowledge'
+  authors:
+  - Peiliang Lou
+  - Yuxin Dong
+  - Caixia Ding
+  - Chunbao Wang
+  - Ruifeng Guo
+  - XiaoBo Pang
+  - Chen Wang
+  - Chen Li
+  publisher: Scientific Data
+  date: '2025-05-27'
+  link: https://doi.org/g9rdgf
+  id: doi:10.1038/s41597-025-04906-z
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
 - title: 'Towards H&amp;amp;E Referenced Multiplex Immunofluorescence Interpretation:
     Spatial Co-localization, Cell Feature Validation, and Virtual H&amp;amp;E Generation'
   authors:
@@ -332,7 +350,7 @@
   - Jaime I. Davila
   - Hongfang Liu
   - Chen Wang
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2021-02-11'
   link: https://doi.org/gs27f5
   id: doi:10.21203/rs.3.rs-219654/v1
@@ -347,7 +365,7 @@
   - Ellen Goode
   - Hongfang Liu
   - Chen Wang
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2020-12-17'
   link: https://doi.org/gs27f6
   id: doi:10.21203/rs.3.rs-41553/v3
@@ -515,7 +533,7 @@
   - Ellen Goode
   - Hongfang Liu
   - Chen Wang
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2020-09-18'
   link: https://doi.org/gs27f7
   id: doi:10.21203/rs.3.rs-41553/v2
@@ -574,7 +592,7 @@
   - Ellen Goode
   - Hongfang Liu
   - Chen Wang
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2020-07-21'
   link: https://doi.org/gs27f9
   id: doi:10.21203/rs.3.rs-41553/v1
@@ -2408,6 +2426,42 @@
   orcid: 0000-0003-4196-1804
   plugin: orcid.py
   file: orcid.yaml
+- title: Generating dermatopathology reports from gigapixel whole slide images with
+    HistoGPT
+  authors:
+  - Manuel Tran
+  - Paul Schmidle
+  - Ruifeng Ray Guo
+  - Sophia J. Wagner
+  - Valentin Koch
+  - Valerio Lupperger
+  - Brenna Novotny
+  - Dennis H. Murphree
+  - Heather D. Hardway
+  - "Marina D\u2019Amato"
+  - Judith Lefkes
+  - Daan J. Geijs
+  - Annette Feuchtinger
+  - "Alexander B\xF6hner"
+  - Robert Kaczmarczyk
+  - Tilo Biedermann
+  - Avital L. Amir
+  - Antien L. Mooyaart
+  - Francesco Ciompi
+  - Geert Litjens
+  - Chen Wang
+  - Nneka I. Comfere
+  - Kilian Eyerich
+  - Stephan A. Braun
+  - Carsten Marr
+  - Tingying Peng
+  publisher: Nature Communications
+  date: '2025-05-27'
+  link: https://doi.org/g9rdgg
+  id: doi:10.1038/s41467-025-60014-x
+  orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
 - title: "Increased Interaction between B Cells and CD3+ T Cells in Nonprogressors\
     \ with Human Papillomavirus\u2013Associated Oropharyngeal Squamous Cell Carcinoma"
   authors:
@@ -2424,7 +2478,7 @@
   - Kathryn M. Van Abel
   - David M. Routman
   publisher: Clinical Cancer Research
-  date: '2025-03-18'
+  date: '2025-02-18'
   link: https://doi.org/g9f784
   id: doi:10.1158/1078-0432.CCR-24-2425
   orcid: 0000-0003-4732-1736
@@ -2644,11 +2698,22 @@
   - Celeste Karch
   - Suzanne Schindler
   - Oscar Harari
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2021-10-21'
   link: https://doi.org/g9f79b
   id: doi:10.21203/rs.3.rs-923492/v1
   orcid: 0000-0003-4732-1736
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Generative AI impact on protein stability prediction in breast cancer genes
+  authors:
+  - Rohan Gnanaolivu
+  - Steven N Hart
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-06-03'
+  link: https://doi.org/g9rdg8
+  id: doi:10.1101/2024.06.03.597089
+  orcid: 0000-0001-6995-6340
   plugin: orcid.py
   file: orcid.yaml
 - title: Genomic and Molecular Landscape of DNA Damage Repair Deficiency across The
